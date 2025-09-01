@@ -60,7 +60,7 @@ sysinfo.txt
 crashlytics-build.properties
 
 # Custom
-Assets/SceneDependencyCache*
+**/Assets/SceneDependencyCache*
 Assets/NetCodeGenerated*
 .idea/
 .DS_Store
