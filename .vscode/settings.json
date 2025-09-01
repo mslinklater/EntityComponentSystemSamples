@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "**/*.csproj": true,
+        "**/*.sln": true,
+        "**/Temp": true
+    }
+}
